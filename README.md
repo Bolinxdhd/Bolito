@@ -6,7 +6,5 @@ Este es mi repositorio para **verificar** y **trabajar** con mis companeros remo
 
 Este es un ejemplo de un codigo en archivo READ.md
 ```
-git status
-git add
-git commit
+hola mundo
 ```
